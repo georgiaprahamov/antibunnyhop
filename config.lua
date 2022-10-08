@@ -1,4 +1,4 @@
 Config = {}
 
 
-Config.NumberJump = 15
+Config.RagdollChance = 0.2
